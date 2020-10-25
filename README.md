@@ -34,6 +34,8 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
+
+
 ## Let's Get In Touch
 
 <a href="https://www.linkedin.com/in/solomon-zelenko/" target="_blank" rel="noopener noreferrer">
