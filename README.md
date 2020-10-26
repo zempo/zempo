@@ -1,4 +1,4 @@
-#### Hi, my name is Solomon :wave:
+### Hi, my name is Solomon :wave:
 
 > I'm a **Fullstack Web Developer** living near **LA.** <br>
 > I write semantic **HTML**, **Sassy CSS**, and work with **JS + Frameworks**.<br>
