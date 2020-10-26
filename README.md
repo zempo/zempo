@@ -20,7 +20,7 @@
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](	https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](	https://img.shields.io/badge/Mongo-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
 *Testing Toolkit*
 
