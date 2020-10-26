@@ -38,7 +38,7 @@
 
 
 ---------
-#### Let's Get In Touch
+### Let's Get In Touch
 
 <a href="https://www.linkedin.com/in/solomon-zelenko/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
