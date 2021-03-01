@@ -31,7 +31,6 @@
 *Currently Learning...*
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=black)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
 
 
