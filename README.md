@@ -26,7 +26,6 @@
 *Testing Toolkit*
 
 ![Mocha](https://img.shields.io/badge/-Mocha-c7c7c7?style=flat&logo=mocha)
-![Jest](https://img.shields.io/badge/-Jest-9F425B?style=flat&logo=jest)
 ![Selenium](https://img.shields.io/badge/-Selenium-718399?style=flat&logo=selenium)
 
 *Currently Learning...*
