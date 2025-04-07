@@ -12,8 +12,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)<br>
-![React](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/Redux%20-%23593d88.svg?&style=flat&logo=redux&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=svelte)
+
 
 *Server-Side Toolkit*
 
@@ -31,7 +31,6 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=svelte)
 
 ---------
 ### Let's Get In Touch
