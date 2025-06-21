@@ -1,36 +1,12 @@
-### Hi, my name is Solomon :wave:
+### Hi, :wave:
 
-> I'm a **Fullstack Web Developer** living near **LA.** <br>
-> I write semantic **HTML**, **Sassy CSS**, and work with **JS + Frameworks**.<br>
-> I mainly use the **PERN** and **MERN** stacks.<br>
+> I'm Solomon Zelenko. I help program educational content by day. By night, I am a _creative coder_ and a _visual artist_.<br>
+> No matter what time of day, I write/rewrite semantic, accessible interfaces.
 
-<br>
+- [View my Codepens](https://codepen.io/zemposPen)
+- [My Instagram](https://www.instagram.com/solwriteman/)
 
-*Client-Side Toolkit*
-
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)<br>
-![Svelte](https://img.shields.io/badge/-Svelte.js-000000?style=flat&logo=svelte)
-
-
-*Server-Side Toolkit*
-
-![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=flat)
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-![MongoDB](	https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white)
-
-*Testing Toolkit*
-
-![Mocha](https://img.shields.io/badge/-Mocha-c7c7c7?style=flat&logo=mocha)
-![Selenium](https://img.shields.io/badge/-Selenium-718399?style=flat&logo=selenium)
-
-*In Progress...*
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zempo)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------
 ### Let's Get In Touch
