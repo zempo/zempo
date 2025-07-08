@@ -1,4 +1,4 @@
-## Don't Worry. It's SolWriteMan :wave: 
+## It's SolWriteMan :wave: 
 > On Paper, On Mic, Online
 
 By day, I virtualize _math and chemistry content_ for students across all grade levels.<br>
